@@ -24,5 +24,10 @@ namespace Chess_Daniova
         {
             InitializeComponent();
         }
+
+        private void SelectTile(object sender, MouseButtonEventArgs e)
+        {
+
+        }
     }
 }
