@@ -20,6 +20,8 @@ namespace Chess_Daniova
     /// </summary>
     public partial class MainWindow : Window
     {
+        internal static object mainWindow;
+
         public MainWindow()
         {
             InitializeComponent();
